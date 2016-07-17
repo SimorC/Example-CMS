@@ -1,0 +1,9 @@
+C:\Users\Simor\Dropbox\PC\Documents\GitHub\Example-CMS\CMS-AppService\bin\Debug\CMS-AppService.dll
+C:\Users\Simor\Dropbox\PC\Documents\GitHub\Example-CMS\CMS-AppService\bin\Debug\CMS-AppService.pdb
+C:\Users\Simor\Dropbox\PC\Documents\GitHub\Example-CMS\CMS-AppService\bin\Debug\CMS-CrossCrossing.dll
+C:\Users\Simor\Dropbox\PC\Documents\GitHub\Example-CMS\CMS-AppService\bin\Debug\CMS-Domain.dll
+C:\Users\Simor\Dropbox\PC\Documents\GitHub\Example-CMS\CMS-AppService\bin\Debug\CMS-CrossCrossing.pdb
+C:\Users\Simor\Dropbox\PC\Documents\GitHub\Example-CMS\CMS-AppService\bin\Debug\CMS-Domain.pdb
+C:\Users\Simor\Dropbox\PC\Documents\GitHub\Example-CMS\CMS-AppService\obj\Debug\CMS-AppService.csprojResolveAssemblyReference.cache
+C:\Users\Simor\Dropbox\PC\Documents\GitHub\Example-CMS\CMS-AppService\obj\Debug\CMS-AppService.dll
+C:\Users\Simor\Dropbox\PC\Documents\GitHub\Example-CMS\CMS-AppService\obj\Debug\CMS-AppService.pdb

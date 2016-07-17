@@ -1,0 +1,50 @@
+﻿@using PagedList.Mvc
+@model PagedList.IPagedList<Example_CMS.ViewModel.UserViewModel>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.IsActive)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DtCreated)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DtModified)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Email)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FullControl)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Password)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
+            @Html.ActionLink("Details", "Details", new { id=item.Id }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.Id })
+        </td>
+    </tr>
+}
+
+<tr>
+    <th colspan="6">
+        <div class="row">
+            <div class="col-sm-5">
+                <div class="dataTables_info" id="example2_info" role="status" aria-live="polite">
+                    Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+                </div>
+            </div>
+            <div class="col-sm-7">
+                <div class="dataTables_paginate paging_simple_numbers" id="example2_paginate">
+                    @Html.PagedListPager(Model, pageNumber => Url.Action("List", new { pageNumber }), PagedListRenderOptions.EnableUnobtrusiveAjaxReplacing(new AjaxOptions() { HttpMethod = "GET", UpdateTargetId = "list-user" }))
+                </div>
+            </div>
+        </div>
+    </th>
+</tr>

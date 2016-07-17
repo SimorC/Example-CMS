@@ -1,0 +1,17 @@
+C:\Users\Simor\Dropbox\PC\Documents\GitHub\Example-CMS\CMS-Injection\bin\Debug\CMS-Injection.dll
+C:\Users\Simor\Dropbox\PC\Documents\GitHub\Example-CMS\CMS-Injection\bin\Debug\CMS-Injection.pdb
+C:\Users\Simor\Dropbox\PC\Documents\GitHub\Example-CMS\CMS-Injection\bin\Debug\CMS-AppService.dll
+C:\Users\Simor\Dropbox\PC\Documents\GitHub\Example-CMS\CMS-Injection\bin\Debug\CMS-Data.dll
+C:\Users\Simor\Dropbox\PC\Documents\GitHub\Example-CMS\CMS-Injection\bin\Debug\CMS-Domain.dll
+C:\Users\Simor\Dropbox\PC\Documents\GitHub\Example-CMS\CMS-Injection\bin\Debug\Ninject.dll
+C:\Users\Simor\Dropbox\PC\Documents\GitHub\Example-CMS\CMS-Injection\bin\Debug\EntityFramework.dll
+C:\Users\Simor\Dropbox\PC\Documents\GitHub\Example-CMS\CMS-Injection\bin\Debug\CMS-CrossCrossing.dll
+C:\Users\Simor\Dropbox\PC\Documents\GitHub\Example-CMS\CMS-Injection\bin\Debug\CMS-AppService.pdb
+C:\Users\Simor\Dropbox\PC\Documents\GitHub\Example-CMS\CMS-Injection\bin\Debug\CMS-Data.pdb
+C:\Users\Simor\Dropbox\PC\Documents\GitHub\Example-CMS\CMS-Injection\bin\Debug\CMS-Domain.pdb
+C:\Users\Simor\Dropbox\PC\Documents\GitHub\Example-CMS\CMS-Injection\bin\Debug\Ninject.xml
+C:\Users\Simor\Dropbox\PC\Documents\GitHub\Example-CMS\CMS-Injection\bin\Debug\EntityFramework.xml
+C:\Users\Simor\Dropbox\PC\Documents\GitHub\Example-CMS\CMS-Injection\bin\Debug\CMS-CrossCrossing.pdb
+C:\Users\Simor\Dropbox\PC\Documents\GitHub\Example-CMS\CMS-Injection\obj\Debug\CMS-Injection.csprojResolveAssemblyReference.cache
+C:\Users\Simor\Dropbox\PC\Documents\GitHub\Example-CMS\CMS-Injection\obj\Debug\CMS-Injection.dll
+C:\Users\Simor\Dropbox\PC\Documents\GitHub\Example-CMS\CMS-Injection\obj\Debug\CMS-Injection.pdb

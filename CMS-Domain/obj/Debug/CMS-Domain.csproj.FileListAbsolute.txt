@@ -1,0 +1,4 @@
+C:\Users\Simor\Dropbox\PC\Documents\GitHub\Example-CMS\CMS-Domain\bin\Debug\CMS-Domain.dll
+C:\Users\Simor\Dropbox\PC\Documents\GitHub\Example-CMS\CMS-Domain\bin\Debug\CMS-Domain.pdb
+C:\Users\Simor\Dropbox\PC\Documents\GitHub\Example-CMS\CMS-Domain\obj\Debug\CMS-Domain.dll
+C:\Users\Simor\Dropbox\PC\Documents\GitHub\Example-CMS\CMS-Domain\obj\Debug\CMS-Domain.pdb

@@ -1,0 +1,17 @@
+C:\Users\Simor\Dropbox\PC\Documents\GitHub\Example-CMS\CMS-Data\obj\Debug\CMS-Data.csprojResolveAssemblyReference.cache
+C:\Users\Simor\Dropbox\PC\Documents\GitHub\Example-CMS\CMS-Data\bin\Debug\CMS-Data.dll.config
+C:\Users\Simor\Dropbox\PC\Documents\GitHub\Example-CMS\CMS-Data\bin\Debug\CMS-Data.dll
+C:\Users\Simor\Dropbox\PC\Documents\GitHub\Example-CMS\CMS-Data\bin\Debug\CMS-Data.pdb
+C:\Users\Simor\Dropbox\PC\Documents\GitHub\Example-CMS\CMS-Data\bin\Debug\CMS-CrossCrossing.dll
+C:\Users\Simor\Dropbox\PC\Documents\GitHub\Example-CMS\CMS-Data\bin\Debug\CMS-Domain.dll
+C:\Users\Simor\Dropbox\PC\Documents\GitHub\Example-CMS\CMS-Data\bin\Debug\EntityFramework.dll
+C:\Users\Simor\Dropbox\PC\Documents\GitHub\Example-CMS\CMS-Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Simor\Dropbox\PC\Documents\GitHub\Example-CMS\CMS-Data\bin\Debug\log4net.dll
+C:\Users\Simor\Dropbox\PC\Documents\GitHub\Example-CMS\CMS-Data\bin\Debug\Migrations.dll
+C:\Users\Simor\Dropbox\PC\Documents\GitHub\Example-CMS\CMS-Data\bin\Debug\CMS-CrossCrossing.pdb
+C:\Users\Simor\Dropbox\PC\Documents\GitHub\Example-CMS\CMS-Data\bin\Debug\CMS-Domain.pdb
+C:\Users\Simor\Dropbox\PC\Documents\GitHub\Example-CMS\CMS-Data\bin\Debug\EntityFramework.xml
+C:\Users\Simor\Dropbox\PC\Documents\GitHub\Example-CMS\CMS-Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Simor\Dropbox\PC\Documents\GitHub\Example-CMS\CMS-Data\bin\Debug\log4net.xml
+C:\Users\Simor\Dropbox\PC\Documents\GitHub\Example-CMS\CMS-Data\obj\Debug\CMS-Data.dll
+C:\Users\Simor\Dropbox\PC\Documents\GitHub\Example-CMS\CMS-Data\obj\Debug\CMS-Data.pdb

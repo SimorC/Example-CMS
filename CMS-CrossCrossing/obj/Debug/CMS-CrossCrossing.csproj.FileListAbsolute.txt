@@ -1,0 +1,4 @@
+C:\Users\Simor\Dropbox\PC\Documents\GitHub\Example-CMS\CMS-CrossCrossing\bin\Debug\CMS-CrossCrossing.dll
+C:\Users\Simor\Dropbox\PC\Documents\GitHub\Example-CMS\CMS-CrossCrossing\bin\Debug\CMS-CrossCrossing.pdb
+C:\Users\Simor\Dropbox\PC\Documents\GitHub\Example-CMS\CMS-CrossCrossing\obj\Debug\CMS-CrossCrossing.dll
+C:\Users\Simor\Dropbox\PC\Documents\GitHub\Example-CMS\CMS-CrossCrossing\obj\Debug\CMS-CrossCrossing.pdb
