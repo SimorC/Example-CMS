@@ -1,0 +1,1306 @@
+@font-face {
+	font-family: 'icomoon';
+	src:url('../fonts/icomoon.eot?uzffr4');
+	src:url('../fonts/icomoon.eot?#iefixuzffr4') format('embedded-opentype'),
+		url('../fonts/icomoon.woff?uzffr4') format('woff'),
+		url('../fonts/icomoon.ttf?uzffr4') format('truetype'),
+		url('../fonts/icomoon.svg?uzffr4#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'icomoon' !important;
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Simoraddmultiple:before {
+	content: "\e600";
+}
+.icon-Simoradd:before {
+	content: "\e601";
+}
+.icon-Simoralert:before {
+	content: "\e602";
+}
+.icon-Simoralien:before {
+	content: "\e603";
+}
+.icon-Simorappfavorite:before {
+	content: "\e604";
+}
+.icon-Simorappminus:before {
+	content: "\e605";
+}
+.icon-Simorappplus:before {
+	content: "\e606";
+}
+.icon-Simorappremove:before {
+	content: "\e607";
+}
+.icon-Simorapp:before {
+	content: "\e608";
+}
+.icon-Simorarrowcollapsed:before {
+	content: "\e609";
+}
+.icon-Simorarrowcornerupright:before {
+	content: "\e60a";
+}
+.icon-Simorarrowdown:before {
+	content: "\e60b";
+}
+.icon-Simorarrowdownup:before {
+	content: "\e60c";
+}
+.icon-Simorarrowexpand:before {
+	content: "\e60d";
+}
+.icon-Simorarrowleftright:before {
+	content: "\e60e";
+}
+.icon-Simorarrowleft:before {
+	content: "\e60f";
+}
+.icon-Simorarrowrightleft:before {
+	content: "\e610";
+}
+.icon-Simorarrowright:before {
+	content: "\e611";
+}
+.icon-Simorarrowupdown:before {
+	content: "\e612";
+}
+.icon-Simorarrowup:before {
+	content: "\e613";
+}
+.icon-Simorat:before {
+	content: "\e614";
+}
+.icon-Simorbaby:before {
+	content: "\e615";
+}
+.icon-Simorbarcode:before {
+	content: "\e616";
+}
+.icon-Simorbath:before {
+	content: "\e617";
+}
+.icon-Simorbattery0:before {
+	content: "\e618";
+}
+.icon-Simorbattery1:before {
+	content: "\e619";
+}
+.icon-Simorbattery2:before {
+	content: "\e61a";
+}
+.icon-Simorbattery3:before {
+	content: "\e61b";
+}
+.icon-Simorbatterycharging:before {
+	content: "\e61c";
+}
+.icon-Simorbed:before {
+	content: "\e61d";
+}
+.icon-Simorbeerguinness:before {
+	content: "\e61e";
+}
+.icon-Simorbeer:before {
+	content: "\e61f";
+}
+.icon-Simorbikeparking:before {
+	content: "\e620";
+}
+.icon-Simorbike:before {
+	content: "\e621";
+}
+.icon-Simorbilling:before {
+	content: "\e622";
+}
+.icon-Simorbookcontact:before {
+	content: "\e623";
+}
+.icon-Simorbrick:before {
+	content: "\e624";
+}
+.icon-Simorbrowserchrome:before {
+	content: "\e625";
+}
+.icon-Simorbrowserie:before {
+	content: "\e626";
+}
+.icon-Simorbrowser:before {
+	content: "\e627";
+}
+.icon-Simorbrowserwire:before {
+	content: "\e628";
+}
+.icon-Simorbugremove:before {
+	content: "\e629";
+}
+.icon-Simorbug:before {
+	content: "\e62a";
+}
+.icon-Simorcameraauto:before {
+	content: "\e62b";
+}
+.icon-Simorcameraflashautoselected:before {
+	content: "\e62c";
+}
+.icon-Simorcameraflashauto:before {
+	content: "\e62d";
+}
+.icon-Simorcameraflashoffselected:before {
+	content: "\e62e";
+}
+.icon-Simorcameraflashoff:before {
+	content: "\e62f";
+}
+.icon-Simorcameraflashselected:before {
+	content: "\e630";
+}
+.icon-Simorcameraflash:before {
+	content: "\e631";
+}
+.icon-Simorcamerasend:before {
+	content: "\e632";
+}
+.icon-Simorcamera:before {
+	content: "\e633";
+}
+.icon-Simorcameraswitchinvert:before {
+	content: "\e634";
+}
+.icon-Simorcameraswitch:before {
+	content: "\e635";
+}
+.icon-Simorcandle:before {
+	content: "\e636";
+}
+.icon-Simorcardsclub:before {
+	content: "\e637";
+}
+.icon-Simorcardsdiamond:before {
+	content: "\e638";
+}
+.icon-Simorcardsheart:before {
+	content: "\e639";
+}
+.icon-Simorcardsspade:before {
+	content: "\e63a";
+}
+.icon-Simorcheck:before {
+	content: "\e63b";
+}
+.icon-Simorcheckmarkcross:before {
+	content: "\e63c";
+}
+.icon-Simorcheckmarkpencil:before {
+	content: "\e63d";
+}
+.icon-Simorcheckmarkpenciltop:before {
+	content: "\e63e";
+}
+.icon-Simorcheckmark:before {
+	content: "\e63f";
+}
+.icon-Simorcheckmarkthick:before {
+	content: "\e640";
+}
+.icon-Simorcheckmarkthickunchecked:before {
+	content: "\e641";
+}
+.icon-Simorcheckmarkuncrossed:before {
+	content: "\e642";
+}
+.icon-Simorchessbishop:before {
+	content: "\e643";
+}
+.icon-Simorchesshorse:before {
+	content: "\e644";
+}
+.icon-Simorchessking:before {
+	content: "\e645";
+}
+.icon-Simorchesspawn:before {
+	content: "\e646";
+}
+.icon-Simorchessqueen:before {
+	content: "\e647";
+}
+.icon-Simorchessrook:before {
+	content: "\e648";
+}
+.icon-Simorchevrondown:before {
+	content: "\e649";
+}
+.icon-Simorchevronleft:before {
+	content: "\e64a";
+}
+.icon-Simorchevronright:before {
+	content: "\e64b";
+}
+.icon-Simorchevronup:before {
+	content: "\e64c";
+}
+.icon-Simorclock:before {
+	content: "\e64d";
+}
+.icon-Simorclothesshirt:before {
+	content: "\e64e";
+}
+.icon-Simorclothestie:before {
+	content: "\e64f";
+}
+.icon-Simorcodexml:before {
+	content: "\e650";
+}
+.icon-Simorcog:before {
+	content: "\e651";
+}
+.icon-Simorcogs:before {
+	content: "\e652";
+}
+.icon-Simorcompanioncube:before {
+	content: "\e653";
+}
+.icon-Simorconediagonal:before {
+	content: "\e654";
+}
+.icon-Simorcone:before {
+	content: "\e655";
+}
+.icon-Simorconnect:before {
+	content: "\e656";
+}
+.icon-Simorconsole:before {
+	content: "\e657";
+}
+.icon-Simorcontrast:before {
+	content: "\e658";
+}
+.icon-Simorcontroleject:before {
+	content: "\e659";
+}
+.icon-Simorcontrolfastforward:before {
+	content: "\e65a";
+}
+.icon-Simorcontrolfastforwardvariant:before {
+	content: "\e65b";
+}
+.icon-Simorcontrolguide:before {
+	content: "\e65c";
+}
+.icon-Simorcontrolpause:before {
+	content: "\e65d";
+}
+.icon-Simorcontrolplaylive:before {
+	content: "\e65e";
+}
+.icon-Simorcontrolplay:before {
+	content: "\e65f";
+}
+.icon-Simorcontrolresume:before {
+	content: "\e660";
+}
+.icon-Simorcontrolrewind:before {
+	content: "\e661";
+}
+.icon-Simorcontrolrewindvariant:before {
+	content: "\e662";
+}
+.icon-Simorcontrolstop:before {
+	content: "\e663";
+}
+.icon-Simorcontrollersnes:before {
+	content: "\e664";
+}
+.icon-Simorcontrollerxbox:before {
+	content: "\e665";
+}
+.icon-Simorcrown:before {
+	content: "\e666";
+}
+.icon-Simorcup:before {
+	content: "\e667";
+}
+.icon-Simorcupcake:before {
+	content: "\e668";
+}
+.icon-Simorcurrencycent:before {
+	content: "\e669";
+}
+.icon-Simorcurrencydollarfree:before {
+	content: "\e66a";
+}
+.icon-Simorcurrencydollar:before {
+	content: "\e66b";
+}
+.icon-Simordatabasemysql:before {
+	content: "\e66c";
+}
+.icon-Simordatabasesql:before {
+	content: "\e66d";
+}
+.icon-Simordatabase:before {
+	content: "\e66e";
+}
+.icon-Simordelete:before {
+	content: "\e66f";
+}
+.icon-Simordiagram:before {
+	content: "\e670";
+}
+.icon-Simordiskdownload:before {
+	content: "\e671";
+}
+.icon-Simordisk:before {
+	content: "\e672";
+}
+.icon-Simordownload:before {
+	content: "\e673";
+}
+.icon-Simoremailgmail:before {
+	content: "\e674";
+}
+.icon-Simoremailhardedge:before {
+	content: "\e675";
+}
+.icon-Simoremailminimal:before {
+	content: "\e676";
+}
+.icon-Simoremailoutlook:before {
+	content: "\e677";
+}
+.icon-Simoremail:before {
+	content: "\e678";
+}
+.icon-Simoremailyahoo:before {
+	content: "\e679";
+}
+.icon-Simoreyehide:before {
+	content: "\e67a";
+}
+.icon-Simoreye:before {
+	content: "\e67b";
+}
+.icon-Simorfilter:before {
+	content: "\e67c";
+}
+.icon-Simorfingerprint:before {
+	content: "\e67d";
+}
+.icon-Simorflag:before {
+	content: "\e67e";
+}
+.icon-Simorflagwavy:before {
+	content: "\e67f";
+}
+.icon-Simorfood:before {
+	content: "\e680";
+}
+.icon-Simorfoot:before {
+	content: "\e681";
+}
+.icon-Simorfuturamabender:before {
+	content: "\e682";
+}
+.icon-Simorfuturamafry:before {
+	content: "\e683";
+}
+.icon-Simorgenderboth:before {
+	content: "\e684";
+}
+.icon-Simorgenderfemale:before {
+	content: "\e685";
+}
+.icon-Simorgendermale:before {
+	content: "\e686";
+}
+.icon-Simorgift:before {
+	content: "\e687";
+}
+.icon-Simorgoogle:before {
+	content: "\e688";
+}
+.icon-Simorgoogleplus:before {
+	content: "\e689";
+}
+.icon-Simorgradeaminus:before {
+	content: "\e68a";
+}
+.icon-Simorgradeaplus:before {
+	content: "\e68b";
+}
+.icon-Simorgradea:before {
+	content: "\e68c";
+}
+.icon-Simorgradebminus:before {
+	content: "\e68d";
+}
+.icon-Simorgradebplus:before {
+	content: "\e68e";
+}
+.icon-Simorgradeb:before {
+	content: "\e68f";
+}
+.icon-Simorgradecminus:before {
+	content: "\e690";
+}
+.icon-Simorgradecplus:before {
+	content: "\e691";
+}
+.icon-Simorgradec:before {
+	content: "\e692";
+}
+.icon-Simorgradedminus:before {
+	content: "\e693";
+}
+.icon-Simorgradedplus:before {
+	content: "\e694";
+}
+.icon-Simorgraded:before {
+	content: "\e695";
+}
+.icon-Simorgradee:before {
+	content: "\e696";
+}
+.icon-Simorgradef:before {
+	content: "\e697";
+}
+.icon-Simorhandicap:before {
+	content: "\e698";
+}
+.icon-Simorhardwareheadphones:before {
+	content: "\e699";
+}
+.icon-Simorhardwareheadset:before {
+	content: "\e69a";
+}
+.icon-Simorhardwaremouse:before {
+	content: "\e69b";
+}
+.icon-Simorhatsanta:before {
+	content: "\e69c";
+}
+.icon-Simorheartbreak:before {
+	content: "\e69d";
+}
+.icon-Simorheartcross:before {
+	content: "\e69e";
+}
+.icon-Simorheartoutline:before {
+	content: "\e69f";
+}
+.icon-Simorheart:before {
+	content: "\e6a0";
+}
+.icon-Simorhomeempty:before {
+	content: "\e6a1";
+}
+.icon-Simorhomegaragearrowclose:before {
+	content: "\e6a2";
+}
+.icon-Simorhomegaragearrowopen:before {
+	content: "\e6a3";
+}
+.icon-Simorhomegarageopen:before {
+	content: "\e6a4";
+}
+.icon-Simorhomegarage:before {
+	content: "\e6a5";
+}
+.icon-Simorhomegps:before {
+	content: "\e6a6";
+}
+.icon-Simorhomelocationpin:before {
+	content: "\e6a7";
+}
+.icon-Simorhomelocationround:before {
+	content: "\e6a8";
+}
+.icon-Simorhomepeoplenone:before {
+	content: "\e6a9";
+}
+.icon-Simorhomepeople:before {
+	content: "\e6aa";
+}
+.icon-Simorhomequestion:before {
+	content: "\e6ab";
+}
+.icon-Simorhome:before {
+	content: "\e6ac";
+}
+.icon-Simorhomevariantenter:before {
+	content: "\e6ad";
+}
+.icon-Simorhomevariantleave:before {
+	content: "\e6ae";
+}
+.icon-Simorhomevariant:before {
+	content: "\e6af";
+}
+.icon-Simorhourglass:before {
+	content: "\e6b0";
+}
+.icon-Simoricecreambar:before {
+	content: "\e6b1";
+}
+.icon-Simorie:before {
+	content: "\e6b2";
+}
+.icon-Simorimagebacklight:before {
+	content: "\e6b3";
+}
+.icon-Simorimagebeach:before {
+	content: "\e6b4";
+}
+.icon-Simorinfinite:before {
+	content: "\e6b5";
+}
+.icon-Simorinformationcircle:before {
+	content: "\e6b6";
+}
+.icon-Simorkeyold:before {
+	content: "\e6b7";
+}
+.icon-Simorkey:before {
+	content: "\e6b8";
+}
+.icon-Simorlanguagecsharp:before {
+	content: "\e6b9";
+}
+.icon-Simorlanguagejava:before {
+	content: "\e6ba";
+}
+.icon-Simorlanguagejavatext:before {
+	content: "\e6bb";
+}
+.icon-Simorlanguagepython:before {
+	content: "\e6bc";
+}
+.icon-Simorlanguagepythontext:before {
+	content: "\e6bd";
+}
+.icon-Simorlaser:before {
+	content: "\e6be";
+}
+.icon-Simorlavalamp:before {
+	content: "\e6bf";
+}
+.icon-Simorlifesaver:before {
+	content: "\e6c0";
+}
+.icon-Simorlightbulbcoil:before {
+	content: "\e6c1";
+}
+.icon-Simorlightbulbhueon:before {
+	content: "\e6c2";
+}
+.icon-Simorlightbulbhue:before {
+	content: "\e6c3";
+}
+.icon-Simorlightbulb:before {
+	content: "\e6c4";
+}
+.icon-Simorlightning:before {
+	content: "\e6c5";
+}
+.icon-Simorlocation:before {
+	content: "\e6c6";
+}
+.icon-Simorlock:before {
+	content: "\e6c7";
+}
+.icon-Simormagnifyadd:before {
+	content: "\e6c8";
+}
+.icon-Simormagnifyminus:before {
+	content: "\e6c9";
+}
+.icon-Simormansensor:before {
+	content: "\e6ca";
+}
+.icon-Simormansuitcasefast:before {
+	content: "\e6cb";
+}
+.icon-Simormansuitcaserun:before {
+	content: "\e6cc";
+}
+.icon-Simormansuitcase:before {
+	content: "\e6cd";
+}
+.icon-Simormanwalk:before {
+	content: "\e6ce";
+}
+.icon-Simormartini:before {
+	content: "\e6cf";
+}
+.icon-Simormarvelavengers:before {
+	content: "\e6d0";
+}
+.icon-Simormarvelcaptainamerica:before {
+	content: "\e6d1";
+}
+.icon-Simormarvelironmanmask:before {
+	content: "\e6d2";
+}
+.icon-Simormarvelironman:before {
+	content: "\e6d3";
+}
+.icon-Simormarvelshield:before {
+	content: "\e6d4";
+}
+.icon-Simormarvelshieldvariant:before {
+	content: "\e6d5";
+}
+.icon-Simormathplusminus:before {
+	content: "\e6d6";
+}
+.icon-Simormedicalpillbroken:before {
+	content: "\e6d7";
+}
+.icon-Simormedicalpill:before {
+	content: "\e6d8";
+}
+.icon-Simormedicalpulse:before {
+	content: "\e6d9";
+}
+.icon-Simormessageprofanity:before {
+	content: "\e6da";
+}
+.icon-Simormessagesend:before {
+	content: "\e6db";
+}
+.icon-Simormessagesmiley:before {
+	content: "\e6dc";
+}
+.icon-Simormessage:before {
+	content: "\e6dd";
+}
+.icon-Simormicrophonegoogle:before {
+	content: "\e6de";
+}
+.icon-Simormicrophone:before {
+	content: "\e6df";
+}
+.icon-Simormoney:before {
+	content: "\e6e0";
+}
+.icon-Simormono:before {
+	content: "\e6e1";
+}
+.icon-Simormoonfirstquarter:before {
+	content: "\e6e2";
+}
+.icon-Simormoonfull:before {
+	content: "\e6e3";
+}
+.icon-Simormoonnew:before {
+	content: "\e6e4";
+}
+.icon-Simormoonsleep:before {
+	content: "\e6e5";
+}
+.icon-Simormoon:before {
+	content: "\e6e6";
+}
+.icon-Simormoonthirdquarter:before {
+	content: "\e6e7";
+}
+.icon-Simormoonwaningcrescent:before {
+	content: "\e6e8";
+}
+.icon-Simormoonwaninggibbous:before {
+	content: "\e6e9";
+}
+.icon-Simormoonwaxingcrescent:before {
+	content: "\e6ea";
+}
+.icon-Simormoonwaxinggibbous:before {
+	content: "\e6eb";
+}
+.icon-Simormovieclapperselect:before {
+	content: "\e6ec";
+}
+.icon-Simormovieclappersolidselect:before {
+	content: "\e6ed";
+}
+.icon-Simormovieclappersolid:before {
+	content: "\e6ee";
+}
+.icon-Simormovieclapper:before {
+	content: "\e6ef";
+}
+.icon-Simormusiclive:before {
+	content: "\e6f0";
+}
+.icon-Simormusicselect:before {
+	content: "\e6f1";
+}
+.icon-Simormusic:before {
+	content: "\e6f2";
+}
+.icon-Simormusicwifi:before {
+	content: "\e6f3";
+}
+.icon-Simorosandroid:before {
+	content: "\e6f4";
+}
+.icon-Simorosios:before {
+	content: "\e6f5";
+}
+.icon-Simorosubuntu:before {
+	content: "\e6f6";
+}
+.icon-Simoroswindows:before {
+	content: "\e6f7";
+}
+.icon-Simoroswindowsphone:before {
+	content: "\e6f8";
+}
+.icon-Simorosx64:before {
+	content: "\e6f9";
+}
+.icon-Simorosx86:before {
+	content: "\e6fa";
+}
+.icon-Simoroutlet:before {
+	content: "\e6fb";
+}
+.icon-Simorpage0:before {
+	content: "\e6fc";
+}
+.icon-Simorpage1:before {
+	content: "\e6fd";
+}
+.icon-Simorpage2:before {
+	content: "\e6fe";
+}
+.icon-Simorpage3:before {
+	content: "\e6ff";
+}
+.icon-Simorpage4:before {
+	content: "\e700";
+}
+.icon-Simorpage5:before {
+	content: "\e701";
+}
+.icon-Simorpage6:before {
+	content: "\e702";
+}
+.icon-Simorpage7:before {
+	content: "\e703";
+}
+.icon-Simorpage8:before {
+	content: "\e704";
+}
+.icon-Simorpage9:before {
+	content: "\e705";
+}
+.icon-Simorpageadd:before {
+	content: "\e706";
+}
+.icon-Simorpagearrow:before {
+	content: "\e707";
+}
+.icon-Simorpagebold:before {
+	content: "\e708";
+}
+.icon-Simorpagebreak:before {
+	content: "\e709";
+}
+.icon-Simorpagecheck:before {
+	content: "\e70a";
+}
+.icon-Simorpagecode:before {
+	content: "\e70b";
+}
+.icon-Simorpagecopy:before {
+	content: "\e70c";
+}
+.icon-Simorpagecornerbookmark:before {
+	content: "\e70d";
+}
+.icon-Simorpagecornerbreak:before {
+	content: "\e70e";
+}
+.icon-Simorpagecornercells:before {
+	content: "\e70f";
+}
+.icon-Simorpagecornerfoldedgrid:before {
+	content: "\e710";
+}
+.icon-Simorpagecornerfolded:before {
+	content: "\e711";
+}
+.icon-Simorpagecornerfoldedtext:before {
+	content: "\e712";
+}
+.icon-Simorpagecornergrid:before {
+	content: "\e713";
+}
+.icon-Simorpagecorner:before {
+	content: "\e714";
+}
+.icon-Simorpagecornertextbreak:before {
+	content: "\e715";
+}
+.icon-Simorpagecornertext:before {
+	content: "\e716";
+}
+.icon-Simorpagecross:before {
+	content: "\e717";
+}
+.icon-Simorpagedelete:before {
+	content: "\e718";
+}
+.icon-Simorpagedownload:before {
+	content: "\e719";
+}
+.icon-Simorpageduplicate:before {
+	content: "\e71a";
+}
+.icon-Simorpageedit:before {
+	content: "\e71b";
+}
+.icon-Simorpageexcel:before {
+	content: "\e71c";
+}
+.icon-Simorpagefilegif:before {
+	content: "\e71d";
+}
+.icon-Simorpagefilegiftag:before {
+	content: "\e71e";
+}
+.icon-Simorpagefilepdf:before {
+	content: "\e71f";
+}
+.icon-Simorpagefilepdftag:before {
+	content: "\e720";
+}
+.icon-Simorpageheart:before {
+	content: "\e721";
+}
+.icon-Simorpageheartbreak:before {
+	content: "\e722";
+}
+.icon-Simorpagehidden:before {
+	content: "\e723";
+}
+.icon-Simorpageimage:before {
+	content: "\e724";
+}
+.icon-Simorpagejpg:before {
+	content: "\e725";
+}
+.icon-Simorpagelocationadd:before {
+	content: "\e726";
+}
+.icon-Simorpagelocation:before {
+	content: "\e727";
+}
+.icon-Simorpageminus:before {
+	content: "\e728";
+}
+.icon-Simorpagemultiple:before {
+	content: "\e729";
+}
+.icon-Simorpagemusic:before {
+	content: "\e72a";
+}
+.icon-Simorpagenew:before {
+	content: "\e72b";
+}
+.icon-Simorpageonenote:before {
+	content: "\e72c";
+}
+.icon-Simorpagepdf:before {
+	content: "\e72d";
+}
+.icon-Simorpagepng:before {
+	content: "\e72e";
+}
+.icon-Simorpagepowerpoint:before {
+	content: "\e72f";
+}
+.icon-Simorpagequestion:before {
+	content: "\e730";
+}
+.icon-Simorpagesearch:before {
+	content: "\e731";
+}
+.icon-Simorpageselect:before {
+	content: "\e732";
+}
+.icon-Simorpagesmall:before {
+	content: "\e733";
+}
+.icon-Simorpagesolidadd:before {
+	content: "\e734";
+}
+.icon-Simorpagesolidcross:before {
+	content: "\e735";
+}
+.icon-Simorpagesolidmove:before {
+	content: "\e736";
+}
+.icon-Simorpagesolid:before {
+	content: "\e737";
+}
+.icon-Simorpage:before {
+	content: "\e738";
+}
+.icon-Simorpagetext:before {
+	content: "\e739";
+}
+.icon-Simorpageupload:before {
+	content: "\e73a";
+}
+.icon-Simorpageword:before {
+	content: "\e73b";
+}
+.icon-Simorpagexml:before {
+	content: "\e73c";
+}
+.icon-Simorpalmtree:before {
+	content: "\e73d";
+}
+.icon-Simorpalmtreevariant:before {
+	content: "\e73e";
+}
+.icon-Simorpaper:before {
+	content: "\e73f";
+}
+.icon-Simorpapercliprotated:before {
+	content: "\e740";
+}
+.icon-Simorpaperclip:before {
+	content: "\e741";
+}
+.icon-Simorpaw:before {
+	content: "\e742";
+}
+.icon-Simorphone:before {
+	content: "\e743";
+}
+.icon-Simorpie:before {
+	content: "\e744";
+}
+.icon-Simorpin:before {
+	content: "\e745";
+}
+.icon-Simorplane:before {
+	content: "\e746";
+}
+.icon-Simorpokeball:before {
+	content: "\e747";
+}
+.icon-Simorpotion:before {
+	content: "\e748";
+}
+.icon-Simorpower:before {
+	content: "\e749";
+}
+.icon-Simorpresent:before {
+	content: "\e74a";
+}
+.icon-Simorpuzzleround:before {
+	content: "\e74b";
+}
+.icon-Simorpuzzle:before {
+	content: "\e74c";
+}
+.icon-Simorqr:before {
+	content: "\e74d";
+}
+.icon-Simorquestion:before {
+	content: "\e74e";
+}
+.icon-Simorquill:before {
+	content: "\e74f";
+}
+.icon-Simorquoteleft:before {
+	content: "\e750";
+}
+.icon-Simorquoteright:before {
+	content: "\e751";
+}
+.icon-Simorradarscreen:before {
+	content: "\e752";
+}
+.icon-Simorradar:before {
+	content: "\e753";
+}
+.icon-Simorradioactive:before {
+	content: "\e754";
+}
+.icon-Simorring:before {
+	content: "\e755";
+}
+.icon-Simorrocket:before {
+	content: "\e756";
+}
+.icon-Simorsailboat:before {
+	content: "\e757";
+}
+.icon-Simorsave:before {
+	content: "\e758";
+}
+.icon-Simorscale:before {
+	content: "\e759";
+}
+.icon-Simorscaleunbalanced:before {
+	content: "\e75a";
+}
+.icon-Simorscissor:before {
+	content: "\e75b";
+}
+.icon-Simorshare:before {
+	content: "\e75c";
+}
+.icon-Simorshieldalert:before {
+	content: "\e75d";
+}
+.icon-Simorshield:before {
+	content: "\e75e";
+}
+.icon-Simorsmileyangry:before {
+	content: "\e75f";
+}
+.icon-Simorsmileycry:before {
+	content: "\e760";
+}
+.icon-Simorsmileyfrown:before {
+	content: "\e761";
+}
+.icon-Simorsmileyglasses:before {
+	content: "\e762";
+}
+.icon-Simorsmileygrin:before {
+	content: "\e763";
+}
+.icon-Simorsmileygrumpy:before {
+	content: "\e764";
+}
+.icon-Simorsmileyhappy:before {
+	content: "\e765";
+}
+.icon-Simorsmileykiki:before {
+	content: "\e766";
+}
+.icon-Simorsmileysquint:before {
+	content: "\e767";
+}
+.icon-Simorsmileytounge:before {
+	content: "\e768";
+}
+.icon-Simorsmileywhat:before {
+	content: "\e769";
+}
+.icon-Simorsnowflake:before {
+	content: "\e76a";
+}
+.icon-Simorsnowman:before {
+	content: "\e76b";
+}
+.icon-Simorsocialapplemobileme:before {
+	content: "\e76c";
+}
+.icon-Simorsocialapple:before {
+	content: "\e76d";
+}
+.icon-Simorsocialdropbox:before {
+	content: "\e76e";
+}
+.icon-Simorsocialevernote:before {
+	content: "\e76f";
+}
+.icon-Simorsocialfacebookheartbreak:before {
+	content: "\e770";
+}
+.icon-Simorsocialfacebookheart:before {
+	content: "\e771";
+}
+.icon-Simorsocialfacebook:before {
+	content: "\e772";
+}
+.icon-Simorsocialfacebookvariant:before {
+	content: "\e773";
+}
+.icon-Simorsocialfoursquare:before {
+	content: "\e774";
+}
+.icon-Simorsocialgithub:before {
+	content: "\e775";
+}
+.icon-Simorsocialplaystation:before {
+	content: "\e776";
+}
+.icon-Simorsocialskype:before {
+	content: "\e777";
+}
+.icon-Simorsocialtumblr:before {
+	content: "\e778";
+}
+.icon-Simorsocialtwitterhashtag:before {
+	content: "\e779";
+}
+.icon-Simorsocialtwitterretweet:before {
+	content: "\e77a";
+}
+.icon-Simorsocialtwitter:before {
+	content: "\e77b";
+}
+.icon-Simorsocialunity:before {
+	content: "\e77c";
+}
+.icon-Simorsound0:before {
+	content: "\e77d";
+}
+.icon-Simorsound1:before {
+	content: "\e77e";
+}
+.icon-Simorsound2:before {
+	content: "\e77f";
+}
+.icon-Simorsound3:before {
+	content: "\e780";
+}
+.icon-Simorsoundmute:before {
+	content: "\e781";
+}
+.icon-Simorstaradd:before {
+	content: "\e782";
+}
+.icon-Simorstardelete:before {
+	content: "\e783";
+}
+.icon-Simorstarinvincible:before {
+	content: "\e784";
+}
+.icon-Simorstarminus:before {
+	content: "\e785";
+}
+.icon-Simorstarremove:before {
+	content: "\e786";
+}
+.icon-Simorstar:before {
+	content: "\e787";
+}
+.icon-Simorstarwarsjedi:before {
+	content: "\e788";
+}
+.icon-Simorstarwarsrebel:before {
+	content: "\e789";
+}
+.icon-Simorstarwarssith:before {
+	content: "\e78a";
+}
+.icon-Simorsteam:before {
+	content: "\e78b";
+}
+.icon-Simorsuitcase:before {
+	content: "\e78c";
+}
+.icon-Simorswitchoff:before {
+	content: "\e78d";
+}
+.icon-Simortag:before {
+	content: "\e78e";
+}
+.icon-Simortardis:before {
+	content: "\e78f";
+}
+.icon-Simortextsizedown:before {
+	content: "\e790";
+}
+.icon-Simortextsizeup:before {
+	content: "\e791";
+}
+.icon-Simortower:before {
+	content: "\e792";
+}
+.icon-Simortrain:before {
+	content: "\e793";
+}
+.icon-Simortransithazard:before {
+	content: "\e794";
+}
+.icon-Simortreeleaf:before {
+	content: "\e795";
+}
+.icon-Simortrophy:before {
+	content: "\e796";
+}
+.icon-Simorunlock:before {
+	content: "\e797";
+}
+.icon-Simorwarning:before {
+	content: "\e798";
+}
+.icon-Simorwaterdropletalert:before {
+	content: "\e799";
+}
+.icon-Simorwaterdropletreflection:before {
+	content: "\e79a";
+}
+.icon-Simorwaterdroplet:before {
+	content: "\e79b";
+}
+.icon-Simorweatherchance:before {
+	content: "\e79c";
+}
+.icon-Simorweatherovercast:before {
+	content: "\e79d";
+}
+.icon-Simorweatherrain:before {
+	content: "\e79e";
+}
+.icon-Simorweathersnow:before {
+	content: "\e79f";
+}
+.icon-Simorweatherstation:before {
+	content: "\e7a0";
+}
+.icon-Simorweathersunrise:before {
+	content: "\e7a1";
+}
+.icon-Simorweathersunset:before {
+	content: "\e7a2";
+}
+.icon-Simorweathersun:before {
+	content: "\e7a3";
+}
+.icon-Simorweathersymbol:before {
+	content: "\e7a4";
+}
+.icon-Simorweatherthunder:before {
+	content: "\e7a5";
+}
+.icon-Simorwebcam:before {
+	content: "\e7a6";
+}
+.icon-Simorxbox:before {
+	content: "\e7a7";
+}
+.icon-Simoryoutubeplay:before {
+	content: "\e7a8";
+}
+.icon-Simoryoutube:before {
+	content: "\e7a9";
+}
+.icon-SimorLogo:before {
+	content: "\e7aa";
+}

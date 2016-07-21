@@ -16,7 +16,7 @@ namespace Example_CMS.Areas.Admin
         {
             context.MapRoute(
                 "Admin_default",
-                "Admin/{controller}/{action}/{id}",
+                "{controller}/{action}/{id}",
                 new { action = "Index", id = UrlParameter.Optional }
             );
         }

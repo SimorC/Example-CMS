@@ -1,0 +1,11 @@
+﻿.alert {
+    position: fixed !important;
+    top: 10px;
+    left: 20px !important;
+    width: 30% !important;
+    position: fixed !important;
+    z-index: 2 !important;
+}
+.alert-success {
+    top: 70px !important;
+}
